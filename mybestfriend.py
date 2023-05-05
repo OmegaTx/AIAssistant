@@ -7,7 +7,7 @@ import openai
 import speech_recognition as sr
 
 
-api_key = "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"
+api_key = "<change-this>"
 
 lang = 'en'
 
